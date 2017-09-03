@@ -1,0 +1,38 @@
+{
+  "short_name": "FIREREACT",
+  "name": "FIREREACT",
+  "background_color": "#105ab3",
+  "description": "FIREREACT",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#305479",
+  "orientation": "portrait",
+  "gcm_sender_id": "SENDER_ID",
+  "icons": [
+    {
+      "src": "icon-128x128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "apple-touch-icon-152x152.png",
+      "type": "image/png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "ms-touch-icon-144x144-precomposed.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "chrome-touch-icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "apple-touch-startup-image.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
